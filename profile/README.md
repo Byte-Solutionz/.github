@@ -1,7 +1,7 @@
-![logo]()
+![logo](https://github.com/Byte-Solutionz/.github/blob/main/profile/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, We are Byte Solutions</h1>
 <h3 align="center">Innovative Software, Web, and Game Development — Turning Ideas into Digital Reality</h3>
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://github.com/Byte-Solutionz/.github/blob/main/profile/gif%20for%20github.gif">
 
 
 - 📫 How to reach us **suupport.byte.solutions@gmail.com**
